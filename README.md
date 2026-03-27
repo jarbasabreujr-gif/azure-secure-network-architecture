@@ -126,7 +126,7 @@ The environment includes:
 ### Security
 
 ![NSG Rules](./images/security/PrivateEndPoints.png)
-![NSG Rules](./images/security/NSGs)
+![NSG Rules](./images/security/NSGs.png)
 
 ### Access
 
